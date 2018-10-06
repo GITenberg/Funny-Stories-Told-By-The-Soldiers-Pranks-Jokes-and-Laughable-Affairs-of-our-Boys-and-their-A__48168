@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Funny Stories Told By The Soldiers
 
   Pranks, Jokes and Laughable Affairs of our Boys and their
